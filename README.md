@@ -35,7 +35,7 @@ INPUTAN PERTAMA KELIPATAN, DAN INPUTAN KEDUA AKHIR DARI KELIPATAN
 
 
 **capture jawaban 6 a
-![JAWABAN 6 A]()
+![JAWABAN 6 A](https://github.com/mrizki0020/ARCADEMY/blob/master/database.png)
 
 **capture jawaban 6 a
 ![JAWABAN 6 A]()
